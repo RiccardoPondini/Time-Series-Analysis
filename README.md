@@ -2,16 +2,16 @@ This repository contains a detailed time series econometric study examining the 
 
 The key steps and methods include:
 
------Univariate analysis and ADF tests to confirm stationarity.
+----- Univariate analysis and ADF tests to confirm stationarity -----
 
------ARDL modeling and Pesaran-Shin-Smith tests for short-run dynamics and error correction modeling.
+----- ARDL modeling and Pesaran-Shin-Smith tests for short-run dynamics and error correction modeling -----
 
------Engle-Granger and Johansen cointegration tests to identify long-run relationships.
+----- Engle-Granger and Johansen cointegration tests to identify long-run relationships -----
 
------VAR/VECM modeling to explore dynamic interdependencies.
+----- VAR/VECM modeling to explore dynamic interdependencies -----
 
------Hodrick-Prescott filtering to separate trend and cyclical components.
+----- Hodrick-Prescott filtering to separate trend and cyclical components -----
 
------Interpretation of adjustment speeds and cointegrating vectors.
+----- Interpretation of adjustment speeds and cointegrating vectors -----
 
 The study is a robust demonstration of macroeconomic time series techniques applied to international price transmission and external shocks, offering useful insights for economic forecasting and policy modeling.
